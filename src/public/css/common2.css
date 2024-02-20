@@ -1,0 +1,17 @@
+.header_inner {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    max-width: 100%;
+    height: 70px;
+    border-bottom: 1px solid #BC8F8F;
+}
+
+.header_logo {
+    color: #BC8F8F;
+    font-weight: 400;
+    font-size: 24px;
+    text-align: center;
+    align-items: center;
+}
+

@@ -1,0 +1,139 @@
+.header_inner {
+    margin: 0 auto;
+    max-width: 100%;
+    height: 70px;
+    border-bottom: 1px solid #BC8F8F;
+}
+
+.header_logo {
+    margin-top: 15px;
+    color: #BC8F8F;
+    font-weight: 400;
+    font-size: 24px;
+    text-align: center;
+    align-items: center;
+}
+
+.contact-form_content {
+    margin: 0 auto;
+    padding: 20px 15px;
+    max-width: 100%;
+}
+
+.contact-form_heading h2 {
+    text-align: center;
+    color: #BC8F8F;
+    padding: 0 20px;
+    font-weight: 200;
+}
+
+.contact-form_confirm{
+    width: 70%;
+    height: 600px;
+    border: 1px solid #BC8F8F;
+    margin: 50px auto;
+}
+
+.contact-form_confirm-group{
+    width: 100%;
+    height: 20px;
+    border: 1px solid #BC8F8F;
+}
+
+.contact-form_confirm-group-content{
+    width: 100%;
+    height: 40px;
+    border: 1px solid #BC8F8F;
+}
+
+.contact-form_confirm-group th{
+    width: 40%;
+    height: 30px;
+    border: 1px solid #BC8F8F;
+    text-align: left;
+    padding-left: 30px;
+    background-color: #BC8F8F;
+    color: #FFFFFF;
+    border-bottom: 1px solid #FFFFFF;
+}
+
+.contact-form_confirm-group-content th{
+    width: 40%;
+    height: 30px;
+    border: 1px solid #BC8F8F;
+    text-align: left;
+    padding-left: 30px;
+    background-color: #BC8F8F;
+    color: #FFFFFF;
+    border-bottom: 1px solid #FFFFFF;
+}
+
+.contact-form_confirm-group td{
+    padding-left: 50px;
+}
+
+.contact-form_confirm-group-content td{
+    padding-left: 50px;
+}
+
+.contact-form_confirm-name-content input{
+    width: 30px;
+    border: none;
+    border-color: #FFFFFF;
+}
+
+.contact-form_confirm-gender-content input{
+    border: none;
+    border-color: #FFFFFF;
+}
+
+.contact-form_confirm-email-content input{
+    width: 40%;
+    border: none;
+    border-color: #FFFFFF;
+}
+
+.contact-form_confirm-tell-content input{
+    width: 40px;
+    border: none;
+    padding-right: -10px;
+    border-color: #FFFFFF;
+}
+
+.contact-form_confirm-address-content input{
+    width: 50%;
+    border: none;
+    border-color: #FFFFFF;
+}
+
+.contact-form_confirm-building-content input{
+    width: 50%;
+    border: none;
+    border-color: #FFFFFF;
+}
+
+.contact-form_confirm-content-content input{
+    border: none;
+    border-color: #FFFFFF;
+}
+
+.contact-form_confirm-detail-content input{
+    width: 70%;
+    height: 80%;
+    border: none;
+    border-color: #FFFFFF;
+}
+
+.confirm_button{
+    display: flex;
+    justify-content: center;
+}
+
+.confirm_button-submit{
+    margin: 0 80px 0 100px;
+    width: 5%;
+    background-color: #BC8F8F;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
